@@ -40,11 +40,11 @@ function App() {
             I have a strong interest in software engineering, particularly in mobile application development. Over the past two years, I’ve been continuously deepening my skills and remain eager to keep learning and growing in this field.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="#" className="bg-gray-600 p-4 rounded-2xl hover:bg-gray-500">Download CV <i className="ri-download-line ri-lg"></i> </a>
+            <a href="https://drive.google.com/file/d/1ESl8ySX2YeNDL39riFlhEIoOF9ULmY4F/view?usp=sharing" className="bg-gray-600 p-4 rounded-2xl hover:bg-gray-500">Download CV <i className="ri-download-line ri-lg"></i> </a>
             <a href="#project" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">See Project <i className="ri-arrow-right-line ri-lg"></i> </a>
           </div>
         </div>
-        <img src={DataImage.HeroImage} alt="Avatar Image" className="lg:w-[500px] lg:h-[500px] md:w-[350px] md:h-[350px] sm:w-[300px] sm:h-[300px] w-[300px] h-[300px] md:ml-auto animate__animated animate__fadeInUp animate__delay-4s rounded-full" loading="lazy"></img>
+        <img src={DataImage.HeroImage} alt="Avatar Image" className="lg:w-[500px] lg:h-[500px] md:w-[350px] md:h-[350px] sm:w-[300px] sm:h-[300px] w-[300px] h-[300px] md:ml-auto animate__animated animate__fadeInUp animate__delay-1s rounded-full" loading="lazy"></img>
       </div>
 
       {/* About section */}
@@ -146,7 +146,7 @@ function App() {
                 </div>
                 <div className="mt-8 text-center">
                   <button onClick={() => handleProjectClick(proyek)} className="bg-gray-600 p-3 rounded-lg block border border-zinc-600 hover:bg-gray-500 w-full">
-                    Lihat Detail
+                    Check Details
                   </button>
                 </div>
               </div>
