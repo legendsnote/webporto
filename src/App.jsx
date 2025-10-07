@@ -88,7 +88,7 @@ function App() {
                 <p className="mt-2 text-gray-300">Alumni iOS Developer Apprentice Batch 7</p>
                 <ul className="list-disc list-inside mt-2 text-gray-400 text-sm space-y-1">
                   <li>Create 8 CBL (Challenge Base Learning) Project</li>
-                  <li>WFO (Work From Office) 9 months, WFH (Work From Home) 3 months</li>
+                  <li>WFO(Work From Office) 9 months, WFH(Work From Home) 3 months</li>
                 </ul>
                 <br></br>
                 <a href="https://drive.google.com/file/d/18CRFaN6IBdcYrTfRe5rkcA1djPa7CSog/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="bg-gray-600 p-4 rounded-2xl hover:bg-gray-500 inline-block">Check Certificate <i className="ri-download-line ri-lg"></i> </a>
