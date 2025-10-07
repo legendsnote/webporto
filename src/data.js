@@ -102,8 +102,9 @@ export const listProyek = [
     nama: "Criminal Crew",
     desk: "Pastime Multipeer 2 - 6 people teamwork game bank robbery theme, that rely on team work and communication.",
     detailedDesc: [
-      "Criminal Crew is an exciting multi-peer cooperative game for 2-6 players, centered around a thrilling bank robbery theme. Developed using Swift and UIKit, the game heavily relies on teamwork and effective communication. Inspired from Spaceteam and AmongUs",
-      "Players must collaborate to solve intricate puzzles and navigate challenges to execute the perfect heist. The game's architecture is a hybrid of MVVM and VIPER, ensuring a robust, scalable, and maintainable codebase.",
+      "Inspired by games like Spaceteam and Among Us, Criminal Crew is an exciting multi-peer cooperative game for 2-6 players, centered around a thrilling bank robbery theme. Developed using Swift and UIKit, the game heavily relies on teamwork and effective communication.",
+      "Each player received puzzle panel that different from other player with twist given instruction sometimes received by player with wrong puzzle panel so the game heavily relies on teamwork and effective communication. ",
+      "The game's architecture is a hybrid of MVVM for managing dependencies and VIPER for handling navigation via a router, ensuring a robust and scalable codebase.",
       "My Role: I was responsible for the UI Layouting and implementing the business logic for the core Cable and Card modules.",
       "During an exhibition program, our app received over 100 positive reviews in just two days, highlighting its engaging gameplay and solid performance."
     ],
