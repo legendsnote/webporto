@@ -40,7 +40,7 @@ function App() {
             I have a strong interest in software engineering, particularly in mobile application development. Over the past two years, I’ve been continuously deepening my skills and remain eager to keep learning and growing in this field.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="https://drive.google.com/file/d/1XV1pJx1H4ke5SbKl9xpRAZhixu0zeeUH/view?usp=sharing" className="bg-gray-600 p-4 rounded-2xl hover:bg-gray-500">Download CV <i className="ri-download-line ri-lg"></i> </a>
+            <a href="https://drive.google.com/file/d/1O9cA3FEEPpFSnNhcdTDs0UU2R2DrixwE/view?usp=sharing" className="bg-gray-600 p-4 rounded-2xl hover:bg-gray-500">Download CV <i className="ri-download-line ri-lg"></i> </a>
             <a href="#project" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">See Project <i className="ri-arrow-right-line ri-lg"></i> </a>
           </div>
         </div>
@@ -83,11 +83,12 @@ function App() {
             <h2 className="text-3xl font-semibold mb-6">Work Experience</h2>
             <div className="space-y-6">
               <div className="p-6 bg-zinc-800 rounded-lg border border-zinc-700">
-                <p className="text-sm text-gray-400 mb-1">Feb 2024 – Jan 2025</p>
+                <p className="text-sm text-gray-400 mb-1">Feb 2024 – March 2025</p>
                 <h3 className="text-xl font-bold">Apple Developer Academy @BINUS</h3>
                 <p className="mt-2 text-gray-300">Alumni iOS Developer Apprentice Batch 7</p>
                 <ul className="list-disc list-inside mt-2 text-gray-400 text-sm space-y-1">
-                  <li>Create 7 CBL (Challenge Base Learning) Project</li>
+                  <li>Create 8 CBL (Challenge Base Learning) Project</li>
+                  <li>WFO (Work From Office) 9 months, WFH (Work From Home) 3 months</li>
                 </ul>
                 <br></br>
                 <a href="https://drive.google.com/file/d/18CRFaN6IBdcYrTfRe5rkcA1djPa7CSog/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="bg-gray-600 p-4 rounded-2xl hover:bg-gray-500 inline-block">Check Certificate <i className="ri-download-line ri-lg"></i> </a>
