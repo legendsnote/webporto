@@ -83,7 +83,7 @@ function App() {
             <h2 className="text-3xl font-semibold mb-6">Work Experience</h2>
             <div className="space-y-6">
               <div className="p-6 bg-zinc-800 rounded-lg border border-zinc-700">
-                <p className="text-sm text-gray-400 mb-1">Feb 2024 – March 2025</p>
+                <p className="text-sm text-gray-400 mb-1">March 2024 – March 2025</p>
                 <h3 className="text-xl font-bold">Apple Developer Academy @BINUS</h3>
                 <p className="mt-2 text-gray-300">Alumni iOS Developer Apprentice Batch 7</p>
                 <ul className="list-disc list-inside mt-2 text-gray-400 text-sm space-y-1">
