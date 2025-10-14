@@ -40,7 +40,7 @@ function App() {
             I have a strong interest in software engineering, particularly in mobile application development. Over the past two years, I’ve been continuously deepening my skills and remain eager to keep learning and growing in this field.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="https://drive.google.com/file/d/1O9cA3FEEPpFSnNhcdTDs0UU2R2DrixwE/view?usp=sharing" className="bg-gray-600 p-4 rounded-2xl hover:bg-gray-500">Download CV <i className="ri-download-line ri-lg"></i> </a>
+            <a href="https://drive.google.com/file/d/1ibo8y2y8TByfkVywkJCPsSIH5A_zLt-L/view?usp=sharing" className="bg-gray-600 p-4 rounded-2xl hover:bg-gray-500">Download CV <i className="ri-download-line ri-lg"></i> </a>
             <a href="#project" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">See Project <i className="ri-arrow-right-line ri-lg"></i> </a>
           </div>
         </div>
