@@ -65,9 +65,9 @@ function App() {
               </div>
               <div>
                 <h1 className="text-4xl mb-1  ">
-                  1<span className=" ">+</span> 
+                  2<span className=" ">+</span> 
                 </h1>
-                <p>Year Working Experience</p>
+                <p>Year Experience</p>
               </div>
             </div>
           </div>
